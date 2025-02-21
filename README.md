@@ -2,7 +2,7 @@
 
 a python project to hide and extract secret messages from images using **least significant bit (lsb)** steganography.
 
-##Getting started 
+## Getting started 
 - install Python IDLE
 - download opencv from terminal: pip install opencv-python
 
