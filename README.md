@@ -10,3 +10,6 @@ a python project to hide and extract secret messages from images using **least s
 - 🔐 hide and extract secret messages  
 - 🖼️ supports png, jpg formats  
 - ⚡ simple command-line usage  
+
+## output
+![Alt Text](output.png)
